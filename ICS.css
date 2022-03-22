@@ -1,0 +1,58 @@
+h2
+{	
+	text-align: justify;
+	font-size: 21pt; 
+	color: maroon;
+	margin: 2%;
+} 
+
+h3 
+{
+	color: maroon;
+}
+
+h1
+{ 
+	color: maroon;
+	padding: 5%;
+	margin:  auto;
+	width: 30%; 
+}
+	
+p
+{	
+	text-align: justify; 
+	font size: 17pt;
+	color: maroon;
+	margin: 2%;
+} 
+
+body 
+{
+	font-family: Verdana,"Arial Narrow", fantasy;
+	background-color:rgba(197, 109, 64, 0.5)
+}
+
+img
+{	
+	border-color: white;
+	border-width: medium;
+	border-style: solid;
+	padding : 3%;
+	margin : 23%; 
+	position: middle;
+	width: 45%; 
+} 
+
+ol
+{
+	padding: 5%;
+	margin:  auto;
+	width: 30%; 
+	border-style: solid; 
+} 
+
+h3
+{
+		margin: 2%;
+}
